@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+authors:
+- family-names: "Serebrennikov"
+  given-names: "Dmitriy"
+  orcid: "0000-0002-2574-3842"
+- family-names: "Skougarevskiy"
+  given-names: "Dmitriy"
+  orcid: "0000-0002-4022-6210"
+title: "A tale of four cities: Exploring environmental characteristics of CCTV equipment placement'"
+date-released: 2023-09-05
+year: 2023
+url: "https://github.com/irlcode/cctv"
+preferred-citation:
+  type: unpublished
+  authors:
+  - family-names: "Serebrennikov"
+    given-names: "Dmitrii"
+    orcid: "0000-0002-2574-3842"
+  - family-names: "Skougarevskiy"
+    given-names: "Dmitriy"
+    orcid: "0000-0002-4022-6210"
+  url: "https://github.com/irlcode/cctv"
+  title: "A tale of four cities: Exploring environmental characteristics of CCTV equipment placement'"
+  year: 2023
