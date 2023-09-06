@@ -3,7 +3,7 @@
 "     Code. Part 1. Grid-Search & Cross-Validation     "
 ########################################################
 
-# This code is used to conduct a robustness check for city-centers. Part 1. Search for the best model parameters, estimate them using cross-validation, and perform a final assessment of model quality.
+# This code is used to conduct a search for the best model parameters, estimate them using cross-validation, and perform a final assessment of model quality.
 
 
 
