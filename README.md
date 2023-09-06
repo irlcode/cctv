@@ -12,7 +12,7 @@ This is the code and data to replicate the analysis in [Serebrennikov, Skougarev
     ├── Table_1_code.R                                  # Produce Table 1 
     ├── Figure_1_code.R                                 # Produce Figure 1
     ├── 1a._Robustness_check_Parameter_searching_and_cross-validation.R # Robustness check for city centers
-    └── 2a._Robustness_check_SHAP_Analysis.R # Robustness check for city centers
+    └── 2a._Robustness_check_SHAP_Analysis.R            # Robustness check for city centers
 ├── data
     ├── BE_100_catboost_best_params.rds                 # Best parameters for Brussels' model
     ├── BE_all_osm_objects_Freqtab.RDS                  # Frequency tab for Brussels
