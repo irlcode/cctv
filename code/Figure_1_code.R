@@ -4,7 +4,7 @@
 "       Spatial distribution of CCTV equipment         "
 ########################################################
 
-# This code produce Figure 1
+# This code produces Figure 1
 
 
 
