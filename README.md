@@ -34,6 +34,15 @@ This is the code and data to replicate the analysis in [Serebrennikov, Skougarev
     └── SC_buffer_wide_100_RandSamp.csv                 # Edinburgh prepared data
 ```
 
+## Data availability statement
+
+The data that support the findings of this study were derived from the following resources available in the public domain:
+- [OpenStreetMap](https://www.openstreetmap.org/) data under [Open Data Commons Open Database License](https://www.openstreetmap.org/copyright) 
+- [Moscow CCTV locations open data](https://data.mos.ru/opendata/2386/) published by Moscow city administration under [Russian Government Decree N 583 of 10.07.2013](https://data.mos.ru/about/terms) allowing free use
+- [Paris CCTV locations open data](https://www.data.gouv.fr/fr/datasets/videoprotection-implantation-des-cameras-kml-ods/) published by French Ministry of the Interior under [Open Licence](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf)
+- [Edinburgh CCTV locations open data](https://www.data.gov.uk/dataset/f55abded-3503-44b6-a120-a90ddd3a38bb/public-cctv-locations-city-of-edinburgh) published by the Scottish Government under [Open Government License v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+-  Kontur Population Dataset by Kontur under [Creative Commons Attribution International (CC BY)](https://data.humdata.org/faqs/licenses) licence
+
 ## Licence
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
