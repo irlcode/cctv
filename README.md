@@ -50,6 +50,6 @@ Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International 
 Copyright © the respective contributors, as shown by the `AUTHORS` file.
 
 ## Contacts
-Dmitriy Serebrennikov, assosiated researcher IRL EUSP
+Dmitriy Serebrennikov, assoсiated researcher at the Institute for the Rule of Law at the European University at St. Petersburg
 
-serebrennikov.dmtr@eu.spb.ru
+[serebrennikov.dmtr@eu.spb.ru](mailto:serebrennikov.dmtr@eu.spb.ru)
