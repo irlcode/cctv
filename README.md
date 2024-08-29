@@ -1,6 +1,6 @@
 # Data and Code For `A tale of four cities: Exploring environmental characteristics of CCTV equipment placement`
 
-This is the code and data to replicate the analysis in [Serebrennikov, Skougarevskiy (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106472).
+This is the code and data to replicate the analysis in [Serebrennikov, Skougarevskiy (2024)](https://link.springer.com/article/10.1007/s42001-024-00323-1).
 
 ## Repository structure
 
